@@ -64,7 +64,7 @@ export default function Results({ answers, onRestart }: ResultsProps) {
         </div>
         <div className="lg:col-span-1">
           <img
-            src="starter-kit/header.jpg"
+            src="header.jpg"
             alt="Header"
             className="w-full h-auto rounded-2xl"
           />
